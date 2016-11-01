@@ -67,7 +67,7 @@
     "ember-cli-preprocess-registry": "^3.0.0",
     "ember-cli-string-utils": "^1.0.0",
     "ember-try": "^0.2.6",
-    "escape-string-regexp": "^1.0.3",
+    "escape-string-regexp": "^1.0.5",
     "exists-sync": "0.0.3",
     "exit": "^0.1.2",
     "express": "^4.12.3",
